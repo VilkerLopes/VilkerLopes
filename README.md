@@ -11,7 +11,7 @@ Atualmente, estou:
 
 ## 🌱 O que eu aprendi recentemente
 
-- Como desenvolver um **portfólio web** com uma interface simples e eficiente, implementando um menu hambúrguer para a navegação.
+- Como desenvolver um **portfólio web** com uma interface simples e eficiente, implementando um menus para facilitar a navegação.
 - Aperfeiçoei minhas habilidades de integração de **React** com backends, como **Flask** e serviços de dados externos como **Google Sheets**.
 
 ## 🔧 Tecnologias e Ferramentas
